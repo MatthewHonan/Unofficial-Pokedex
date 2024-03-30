@@ -1,5 +1,5 @@
 # Unofficial Pokedex!
-This project was implemented using JavaScript the Streamlit framework, and the PokeAPI. It serves to give data on any pokemon the user selects from the first generation. However, there are more features that will be discussed below.
+This project was implemented using Pyhton, the Streamlit framework, and the PokeAPI. It serves to give data on any pokemon the user selects from the first generation. However, there are more features that will be discussed below.
 
 # Initial Page
 ![initial-impression](https://user-images.githubusercontent.com/118576766/204449239-59dda992-0fa3-4e78-9901-3ad7803ad075.jpg)
